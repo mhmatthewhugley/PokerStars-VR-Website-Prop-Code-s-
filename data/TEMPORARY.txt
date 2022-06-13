@@ -1,5 +1,7 @@
 Replace this with your file(s).
 
+License will probably be this "https://gitlab.com/mhmatthewhugley/Website-MH-01/-/blob/trunk/public/LICENSE.txt"
+
 In order to redeem these go to settings > redeem code and then enter the code.
 
 5070 - Whale
